@@ -1,2 +1,4 @@
 File is changed
-File is changed on master
+File is changed by master
+File is changed by try-conlict
+File is changed by try-reset
